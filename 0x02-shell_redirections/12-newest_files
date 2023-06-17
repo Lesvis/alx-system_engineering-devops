@@ -1,2 +1,2 @@
 #!/bim/bash
-ls -t | head -n
+ls -t | head -n 5
